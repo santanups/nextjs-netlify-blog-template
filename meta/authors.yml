@@ -1,6 +1,10 @@
 authors:
+  - slug: sudhansu-pc
+    name: Sudhansu PC
+    introduction: |+
+      Some text
+
   - slug: wutali
     name: Takahiro Fujiwara
-    introduction:
-      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
+    introduction: Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
       Python / Golang / React
